@@ -1,0 +1,213 @@
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.baml
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.g.cs
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\App.g.cs
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.cache
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.g.resources
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.Cache
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.cache
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.g.resources
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.dll
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.xml
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.baml
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.g.cs
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.baml
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.g.cs
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.dll
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.xml
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\drug173\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.PatientAdd.resources
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.PatientAdd.resources
+C:\Users\Максим\Desktop\PR_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations.InitialCreate.resources
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.dll
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.xml
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.baml
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.g.cs
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.cache
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.g.resources
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations.InitialCreate.resources
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.PatientAdd.resources
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\VisitWindow.baml
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\VisitWindow.g.cs
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.lref
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.VisitAdd.resources
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.PatientVisitForm.resources
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\bin\Debug\EntityFramework.dll
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\bin\Debug\EntityFramework.xml
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\PatientWindow.baml
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\PatientWindow.g.cs
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\VisitWindow.g.cs
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.cache
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.lref
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\VisitWindow.baml
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.g.resources
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.Migrations.InitialCreate.resources
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.Migrations.Add1Migration.resources
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.Migrations.Add2Migration.resources
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.Migrations.Add3Migration.resources
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.PatientAdd.resources
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.PatientVisitForm.resources
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.VisitAdd.resources
+C:\Users\Максим\Desktop\CLINIC_KOPI\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.Cache
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.dll
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.xml
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.baml
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.baml
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.g.cs
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.g.cs
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\VisitWindow.g.cs
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\App.g.cs
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.cache
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.lref
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\VisitWindow.baml
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.g.resources
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.PatientAdd.resources
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.PatientVisitForm.resources
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.VisitAdd.resources
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations.Add1Migration.resources
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations.Add2Migration.resources
+C:\Users\Максим\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations.Add3Migration.resources
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations._1.resources
+C:\Users\drug173\Desktop\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations._2.resources
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.dll
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.xml
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.baml
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.baml
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.g.cs
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.g.cs
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\VisitWindow.g.cs
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\App.g.cs
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.cache
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.lref
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\VisitWindow.baml
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic.g.resources
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations._1.resources
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations._2.resources
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic.PatientAdd.resources
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic.PatientVisitForm.resources
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic.VisitAdd.resources
+C:\Users\drug173\Desktop\PR_Rabota_CLINIC\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.Cache
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe.config
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.exe
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.pdb
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\Clinic.pdb
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.dll
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.dll
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.xml
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.xml
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.baml
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.baml
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.g.cs
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.g.cs
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\VisitWindow.g.cs
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\App.g.cs
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.cache
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.lref
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\VisitWindow.baml
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.g.resources
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations._1.resources
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations._2.resources
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.PatientAdd.resources
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.PatientVisitForm.resources
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.VisitAdd.resources
+D:\РАБОЧИЙ СТОЛ-2\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.dll
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.xml
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.baml
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\PatientWindow.g.cs
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\VisitWindow.g.cs
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.cache
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.lref
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\VisitWindow.baml
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.g.resources
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations._1.resources
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Migrations._2.resources
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.PatientAdd.resources
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.PatientVisitForm.resources
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.VisitAdd.resources
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Максим\Desktop\PRogram_Rabota\CLINIC\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache

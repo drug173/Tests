@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^index.html$ / [QSA,R]
+RewriteEngine On
+RewriteBase /
+RewriteRule ^html/blog.* /blog.html [R=301,L]
+RewriteRule ^news/happy.* /news.html [R=301,L]

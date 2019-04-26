@@ -1,0 +1,93 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+.q {
+    font-size: 20px;
+    color: #405bea;
+}
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  background-color:ghostwhite;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  line-height: 60px; /* Vertically center the text there */
+}
+.btn {
+    height: 40px;
+    width: 100px;
+    background-color: burlywood;
+}
+.aa {
+    padding-top: 10px;
+    margin-bottom: 11px;
+}
+.inp {
+    margin-right: 11px;
+}
+
+header{
+    background-color:mintcream;
+}
+.foot {
+    background-color: #96c5f391;
+}
+.nomer {
+    font-size: 21px;
+    line-height: 1.8;
+    font-style: italic;
+    font-weight: 400;
+    color:dimgrey;
+    padding-right: 11px;
+}
+.phone1 {
+    font-size: 22px;
+    line-height: 1.8;
+    font-weight: 500;
+    color:black;
+}
