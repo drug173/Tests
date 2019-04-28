@@ -1,0 +1,43 @@
+﻿@using Library2.Models
+@model Library2.Models.Reader
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+
+
+
+@using (Html.BeginForm())
+{
+
+    <fieldset>
+        <legend>Читатель</legend>
+
+        @Html.HiddenFor(model => model.ReaderId)
+
+        <div class="editor-label"><b>Имя</b></div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name)
+        </div>
+
+        <div class="editor-label"><b>Книги</b></div>
+        @foreach (Book c in ViewBag.Books)
+        {
+            <input type="checkbox" name="selectedBooks" value="@c.Id"
+                   @(Model.Books.Contains(c) ? "checked=\"checked\"" : "") />@c.BookName <br />
+        }
+
+        <p>
+            <input type="submit" value="Сохранить" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

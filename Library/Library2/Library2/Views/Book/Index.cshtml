@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Library2.Models.Book>
+@{
+    ViewBag.Title = "Book";
+}
+
+<h2>Книги</h2>
+<p>
+    @Html.ActionLink("Добавить книгу", "Create")
+</p>
+<table>
+    <tr>
+        <th>Название книги         </th>
+        <th>Автор         </th>
+        <th>  </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author.NameAuthor)
+            </td>
+            <td>
+                @Html.ActionLink("Редактировать", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Удалить", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>
+<p>
+    @Html.ActionLink("Список авторов", "Index", "Author")
+</p>

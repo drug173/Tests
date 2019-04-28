@@ -1,0 +1,39 @@
+﻿@using Library2.Models
+@model Library2.Models.Reader
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<h4>@Model.Name</h4>
+<p>
+    @Html.ActionLink("добавить книгу", "CreateBook", new { id = Model.ReaderId })
+</p>
+    <table class="table table-striped">
+
+        <tr>
+            <th>Книги</th>
+
+
+        </tr>
+
+
+
+
+
+        @foreach (Book c in Model.Books)
+            {
+            <tr>
+                <td>
+                    @c.BookName  @Html.ActionLink("Удалить", "Delete", "Book", new { id = c.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
+
+<p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ReaderId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>

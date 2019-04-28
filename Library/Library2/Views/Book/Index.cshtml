@@ -1,0 +1,52 @@
+﻿@model PagedList.IPagedList<Library2.Models.Book>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Book";
+}
+
+<h2>Книги</h2>
+<p>
+    @Html.ActionLink("Добавить книгу", "Create")
+</p>
+@using (Html.BeginForm("Index", "Book", FormMethod.Get))
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+}
+<table>
+    <tr>
+        <th>
+            @Html.ActionLink("Название Книг", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th> | </th>
+        <th>@Html.ActionLink("Авторы", "Index", new { sortOrder = ViewBag.AuthorSortParm, currentFilter = ViewBag.CurrentFilter })</th>
+        <th>      </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookName)
+            </td>
+            <td> | </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author.NameAuthor)
+            </td>
+            <td>
+                @Html.ActionLink("Редактировать", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Удалить", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+<p>
+    @Html.ActionLink("Список авторов", "Index", "Author")
+</p>

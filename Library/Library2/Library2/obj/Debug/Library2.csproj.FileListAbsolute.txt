@@ -1,0 +1,230 @@
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\ApplicationInsights.config
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\roslyn\csc.exe
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\roslyn\vbc.exe
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Library2.dll.config
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Library2.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Library2.pdb
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Antlr3.Runtime.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.Web.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.WindowsServer.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.ApplicationInsights.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Newtonsoft.Json.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.Helpers.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.Mvc.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.Optimization.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.Razor.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.WebPages.Deployment.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.WebPages.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.WebPages.Razor.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\WebGrease.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.Web.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.WindowsServer.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.ApplicationInsights.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.Helpers.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.Mvc.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.Optimization.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.Razor.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.WebPages.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.WebPages.Deployment.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\System.Web.WebPages.Razor.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Antlr3.Runtime.pdb
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\Newtonsoft.Json.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\obj\Debug\Library2.csprojResolveAssemblyReference.cache
+D:\Desktop\Visual_studio\Library2\Library2\Library2\obj\Debug\Library2.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\obj\Debug\Library2.pdb
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\EntityFramework.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\EntityFramework.SqlServer.dll
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\EntityFramework.xml
+D:\Desktop\Visual_studio\Library2\Library2\Library2\bin\EntityFramework.SqlServer.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\ApplicationInsights.config
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\roslyn\csc.exe
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\roslyn\System.Collections.Immutable.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\roslyn\System.Reflection.Metadata.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\roslyn\vbc.exe
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\roslyn\VBCSCompiler.exe
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\roslyn\VBCSCompiler.exe.config
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Library2.dll.config
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Library2.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Library2.pdb
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Antlr3.Runtime.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\EntityFramework.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\EntityFramework.SqlServer.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.Agent.Intercept.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.DependencyCollector.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.Web.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.WindowsServer.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.ApplicationInsights.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.Web.Infrastructure.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Newtonsoft.Json.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.Helpers.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.Mvc.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.Optimization.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.Razor.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.WebPages.Deployment.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.WebPages.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.WebPages.Razor.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\WebGrease.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\EntityFramework.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\EntityFramework.SqlServer.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.DependencyCollector.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.Web.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.AI.WindowsServer.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.ApplicationInsights.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.Helpers.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.Mvc.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.Optimization.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.Razor.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.WebPages.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.WebPages.Deployment.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\System.Web.WebPages.Razor.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Antlr3.Runtime.pdb
+F:\учёба\Visual_studio\Library2\Library2\Library2\bin\Newtonsoft.Json.xml
+F:\учёба\Visual_studio\Library2\Library2\Library2\obj\Debug\Library2.csprojResolveAssemblyReference.cache
+F:\учёба\Visual_studio\Library2\Library2\Library2\obj\Debug\Library2.dll
+F:\учёба\Visual_studio\Library2\Library2\Library2\obj\Debug\Library2.pdb
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\ApplicationInsights.config
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\roslyn\csc.exe
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\roslyn\System.Collections.Immutable.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\roslyn\System.Reflection.Metadata.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\roslyn\vbc.exe
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\roslyn\VBCSCompiler.exe
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\roslyn\VBCSCompiler.exe.config
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Library2.dll.config
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Library2.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Library2.pdb
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Antlr3.Runtime.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\EntityFramework.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\EntityFramework.SqlServer.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.AI.DependencyCollector.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.AI.Web.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.AI.WindowsServer.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.ApplicationInsights.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.Web.Infrastructure.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Newtonsoft.Json.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.Helpers.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.Mvc.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.Optimization.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.Razor.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.WebPages.Deployment.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.WebPages.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.WebPages.Razor.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\WebGrease.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\EntityFramework.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\EntityFramework.SqlServer.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.AI.DependencyCollector.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.AI.Web.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.AI.WindowsServer.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.ApplicationInsights.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.Helpers.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.Mvc.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.Optimization.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.Razor.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.WebPages.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.WebPages.Deployment.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\System.Web.WebPages.Razor.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Antlr3.Runtime.pdb
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\bin\Newtonsoft.Json.xml
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\obj\Debug\Library2.csprojResolveAssemblyReference.cache
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\obj\Debug\Library2.dll
+D:\сноута\учёба_прошлое\Базы данных\Library2\Library2\Library2\obj\Debug\Library2.pdb
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\ApplicationInsights.config
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\roslyn\csc.exe
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\roslyn\vbc.exe
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Library2.dll.config
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Library2.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Library2.pdb
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Antlr3.Runtime.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\EntityFramework.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.AI.Web.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Newtonsoft.Json.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.Helpers.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.Mvc.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.Optimization.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.Razor.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.WebPages.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\WebGrease.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\EntityFramework.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.AI.Web.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.Helpers.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.Mvc.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.Optimization.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.Razor.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.WebPages.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Antlr3.Runtime.pdb
+C:\Users\Максим\Desktop\Library2\Library2\Library2\bin\Newtonsoft.Json.xml
+C:\Users\Максим\Desktop\Library2\Library2\Library2\obj\Debug\Library2.dll
+C:\Users\Максим\Desktop\Library2\Library2\Library2\obj\Debug\Library2.pdb
+C:\Users\Максим\Desktop\Library2\Library2\Library2\obj\Debug\Library2.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Library2\Library2\Library2\obj\Debug\Library2.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Library2\Library2\Library2\obj\Debug\Library2.csproj.CopyComplete

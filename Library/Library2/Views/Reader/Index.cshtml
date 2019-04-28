@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Library2.Models.Reader>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Читатели</h2>
+
+<p>
+    @Html.ActionLink("Добавить читателя", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>Читатель</th>
+        
+        
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.ActionLink("Редактировать", "Edit", new { id=item.ReaderId }) |
+            @Html.ActionLink("Просмотр", "Details", new { id=item.ReaderId }) |
+            @Html.ActionLink("Удалить", "Delete", new { id=item.ReaderId })  |
+           
+        </td>
+    </tr>
+}
+
+</table>

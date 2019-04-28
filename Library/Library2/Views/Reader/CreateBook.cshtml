@@ -1,0 +1,46 @@
+﻿@using Library2.Models
+@model Library2.Models.Reader
+@{
+    ViewBag.Title = "CreateBook";
+}
+
+  
+
+@using (Html.BeginForm())
+{
+
+    <fieldset>
+        <legend>Читатель</legend>
+
+        @Html.HiddenFor(model => model.ReaderId)
+
+        <h4>@Model.Name</h4>
+
+        <table>
+            <tr>
+                <td><p> книги</p></td>
+                <td></td>
+            </tr>
+            @foreach (var b in ViewBag.Books)
+            {
+                <tr>
+                    <td><p>@b.BookName</p></td>
+
+                    <td><p><a href="/Reader/Buy/@b.Id">отметить</a></p></td>
+                </tr>
+            }
+        </table>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index") | @Html.ActionLink("К Читателю", "Details", new { id = Model.ReaderId })
+</div>
+
+    <div>
+        
+    </div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
