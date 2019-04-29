@@ -1,0 +1,49 @@
+C:\Users\Максим\Desktop\ДИПЛОМ\Транспортная+задача\Транспортная задача\lab1\bin\Debug\lab1.exe
+C:\Users\Максим\Desktop\ДИПЛОМ\Транспортная+задача\Транспортная задача\lab1\bin\Debug\lab1.pdb
+C:\Users\Максим\Desktop\ДИПЛОМ\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\ДИПЛОМ\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.mainForm.resources
+C:\Users\Максим\Desktop\ДИПЛОМ\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\Максим\Desktop\ДИПЛОМ\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\ДИПЛОМ\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.exe
+C:\Users\Максим\Desktop\ДИПЛОМ\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.pdb
+C:\Users\Максим\Desktop\ДИПЛОМ\Транспортная+задача\Транспортная задача\lab1\bin\Debug\lab1.exe.config
+C:\Users\drug173\Desktop\проги к диплому\Транспортная+задача\Транспортная задача\lab1\bin\Debug\lab1.exe.config
+C:\Users\drug173\Desktop\проги к диплому\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.pdb
+C:\Users\drug173\Desktop\проги к диплому\Транспортная+задача\Транспортная задача\lab1\bin\Debug\lab1.exe
+C:\Users\drug173\Desktop\проги к диплому\Транспортная+задача\Транспортная задача\lab1\bin\Debug\lab1.pdb
+C:\Users\drug173\Desktop\проги к диплому\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\drug173\Desktop\проги к диплому\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.mainForm.resources
+C:\Users\drug173\Desktop\проги к диплому\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\drug173\Desktop\проги к диплому\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\drug173\Desktop\проги к диплому\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.exe
+D:\РАБОЧИЙ СТОЛ-2\ДИПЛОМ!\проги к диплому\Транспортная+задача\Транспортная задача\lab1\bin\Debug\lab1.exe.config
+D:\РАБОЧИЙ СТОЛ-2\ДИПЛОМ!\проги к диплому\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.exe
+D:\РАБОЧИЙ СТОЛ-2\ДИПЛОМ!\проги к диплому\Транспортная+задача\Транспортная задача\lab1\obj\x86\Debug\lab1.pdb
+C:\Users\drug173\Desktop\Диплом проги\Транспортная задача\lab1\bin\Debug\lab1.exe.config
+C:\Users\drug173\Desktop\Диплом проги\Транспортная задача\lab1\obj\x86\Debug\lab1.exe
+C:\Users\drug173\Desktop\Диплом проги\Транспортная задача\lab1\obj\x86\Debug\lab1.pdb
+C:\Users\drug173\Desktop\Диплом проги\Транспортная задача\lab1\bin\Debug\lab1.exe
+C:\Users\drug173\Desktop\Диплом проги\Транспортная задача\lab1\bin\Debug\lab1.pdb
+C:\Users\drug173\Desktop\Диплом проги\Транспортная задача\lab1\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\drug173\Desktop\Диплом проги\Транспортная задача\lab1\obj\x86\Debug\lab1.mainForm.resources
+C:\Users\drug173\Desktop\Диплом проги\Транспортная задача\lab1\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\drug173\Desktop\Диплом проги\Транспортная задача\lab1\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
+D:\RABOCHI_STOL_D\Diplom_Prog\Транспортная задача\lab1\bin\Debug\lab1.exe.config
+D:\RABOCHI_STOL_D\Diplom_Prog\Транспортная задача\lab1\bin\Debug\lab1.exe
+D:\RABOCHI_STOL_D\Diplom_Prog\Транспортная задача\lab1\bin\Debug\lab1.pdb
+D:\RABOCHI_STOL_D\Diplom_Prog\Транспортная задача\lab1\obj\x86\Debug\lab1.csprojAssemblyReference.cache
+D:\RABOCHI_STOL_D\Diplom_Prog\Транспортная задача\lab1\obj\x86\Debug\lab1.mainForm.resources
+D:\RABOCHI_STOL_D\Diplom_Prog\Транспортная задача\lab1\obj\x86\Debug\lab1.Properties.Resources.resources
+D:\RABOCHI_STOL_D\Diplom_Prog\Транспортная задача\lab1\obj\x86\Debug\lab1.csproj.GenerateResource.cache
+D:\RABOCHI_STOL_D\Diplom_Prog\Транспортная задача\lab1\obj\x86\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\RABOCHI_STOL_D\Diplom_Prog\Транспортная задача\lab1\obj\x86\Debug\lab1.exe
+D:\RABOCHI_STOL_D\Diplom_Prog\Транспортная задача\lab1\obj\x86\Debug\lab1.pdb
+D:\GIT\Tests2\Transport_Problem\lab1\bin\Debug\lab1.exe.config
+D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.exe
+D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.pdb
+D:\GIT\Tests2\Transport_Problem\lab1\bin\Debug\lab1.exe
+D:\GIT\Tests2\Transport_Problem\lab1\bin\Debug\lab1.pdb
+D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.mainForm.resources
+D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.Properties.Resources.resources
+D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
