@@ -43,7 +43,8 @@ D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.exe
 D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.pdb
 D:\GIT\Tests2\Transport_Problem\lab1\bin\Debug\lab1.exe
 D:\GIT\Tests2\Transport_Problem\lab1\bin\Debug\lab1.pdb
-D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
 D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.mainForm.resources
 D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.Properties.Resources.resources
 D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
+D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.csprojAssemblyReference.cache
+D:\GIT\Tests2\Transport_Problem\lab1\obj\x86\Debug\lab1.csproj.CoreCompileInputs.cache
