@@ -1,0 +1,72 @@
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\bin\Debug\test.mdf
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\bin\Debug\test_log.ldf
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\bin\Debug\test_megaperfume2.exe.config
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\bin\Debug\test_megaperfume2.exe
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\bin\Debug\test_megaperfume2.pdb
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\bin\Debug\EntityFramework.dll
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\bin\Debug\EntityFramework.SqlServer.dll
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\bin\Debug\EntityFramework.xml
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\bin\Debug\EntityFramework.SqlServer.xml
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\bin\Debug\ru\EntityFramework.resources.dll
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.csprojAssemblyReference.cache
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.Form1.resources
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.Properties.Resources.resources
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.csproj.GenerateResource.cache
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.csproj.CoreCompileInputs.cache
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.csproj.CopyComplete
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.exe
+D:\VISUAL_Studio\test_megaperfume1\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.pdb
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\test.mdf
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\test_log.ldf
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\test_megaperfume2.exe.config
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\test_megaperfume2.exe
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\test_megaperfume2.pdb
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\EntityFramework.dll
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\EntityFramework.xml
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\ru\EntityFramework.resources.dll
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.csprojAssemblyReference.cache
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.Form1.resources
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.Properties.Resources.resources
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.csproj.GenerateResource.cache
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.csproj.CoreCompileInputs.cache
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.csproj.CopyComplete
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.exe
+D:\GIT\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.pdb
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\test.mdf
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\test_log.ldf
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\test_megaperfume2.exe.config
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\test_megaperfume2.exe
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\test_megaperfume2.pdb
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\EntityFramework.dll
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\EntityFramework.SqlServer.dll
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\EntityFramework.xml
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\EntityFramework.SqlServer.xml
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\bin\Debug\ru\EntityFramework.resources.dll
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.csprojAssemblyReference.cache
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.Form1.resources
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.Properties.Resources.resources
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.csproj.GenerateResource.cache
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.csproj.CoreCompileInputs.cache
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.csproj.CopyComplete
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.exe
+D:\VISUAL_Studio\Test_Parfume\test_megaperfume2\test_megaperfume2\obj\Debug\test_megaperfume2.pdb
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\bin\Debug\test.mdf
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\bin\Debug\test_log.ldf
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\bin\Debug\test_megaperfume2.exe.config
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\bin\Debug\test_megaperfume2.exe
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\bin\Debug\test_megaperfume2.pdb
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\bin\Debug\EntityFramework.dll
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\bin\Debug\EntityFramework.SqlServer.dll
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\bin\Debug\EntityFramework.xml
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\bin\Debug\EntityFramework.SqlServer.xml
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\bin\Debug\ru\EntityFramework.resources.dll
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\obj\Debug\test_megaperfume2.csprojAssemblyReference.cache
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\obj\Debug\test_megaperfume2.Form1.resources
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\obj\Debug\test_megaperfume2.Properties.Resources.resources
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\obj\Debug\test_megaperfume2.csproj.GenerateResource.cache
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\obj\Debug\test_megaperfume2.csproj.CoreCompileInputs.cache
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\obj\Debug\test_megaperfume2.csproj.CopyComplete
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\obj\Debug\test_megaperfume2.exe
+D:\VISUAL_Studio\Test_Parfume copy\test_megaperfume\test_megaperfume2\obj\Debug\test_megaperfume2.pdb

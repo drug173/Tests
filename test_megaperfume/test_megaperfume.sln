@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_megaperfume2", "test_megaperfume2\test_megaperfume2.csproj", "{B5FBBA17-874E-4FF1-BEF4-8023C4050DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5FBBA17-874E-4FF1-BEF4-8023C4050DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5FBBA17-874E-4FF1-BEF4-8023C4050DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5FBBA17-874E-4FF1-BEF4-8023C4050DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5FBBA17-874E-4FF1-BEF4-8023C4050DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5D60078-AB09-4A48-AB9F-8E5EFCAD76CD}
+	EndGlobalSection
+EndGlobal

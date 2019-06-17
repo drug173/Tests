@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище testModelContainer" CdmEntityContainer="testEntities">
+    <EntitySetMapping Name="DISTRIBUTORS">
+      <EntityTypeMapping TypeName="testModel.DISTRIBUTORS">
+        <MappingFragment StoreEntitySet="DISTRIBUTORS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="ACTIVE" ColumnName="ACTIVE" />
+          <ScalarProperty Name="GOINPURCHASELIST" ColumnName="GOINPURCHASELIST" />
+          <ScalarProperty Name="FIRSTALWAYS" ColumnName="FIRSTALWAYS" />
+          <ScalarProperty Name="PHONE" ColumnName="PHONE" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="SENDMAIL" ColumnName="SENDMAIL" />
+          <ScalarProperty Name="ADDRESS" ColumnName="ADDRESS" />
+          <ScalarProperty Name="COMMENT" ColumnName="COMMENT" />
+          <ScalarProperty Name="PRIORITY" ColumnName="PRIORITY" />
+          <ScalarProperty Name="DEALERORDER" ColumnName="DEALERORDER" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LINKS">
+      <EntityTypeMapping TypeName="testModel.LINKS">
+        <MappingFragment StoreEntitySet="LINKS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="CATALOGPRODUCTID" ColumnName="CATALOGPRODUCTID" />
+          <ScalarProperty Name="PRICERECORDINDEX" ColumnName="PRICERECORDINDEX" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MANUFACTURERS">
+      <EntityTypeMapping TypeName="testModel.MANUFACTURERS">
+        <MappingFragment StoreEntitySet="MANUFACTURERS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="EXTRAUSED" ColumnName="EXTRAUSED" />
+          <ScalarProperty Name="EXTRA" ColumnName="EXTRA" />
+          <ScalarProperty Name="DESCRIPTION" ColumnName="DESCRIPTION" />
+          <ScalarProperty Name="PUBLISHED" ColumnName="PUBLISHED" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRICES">
+      <EntityTypeMapping TypeName="testModel.PRICES">
+        <MappingFragment StoreEntitySet="PRICES">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="DISID" ColumnName="DISID" />
+          <ScalarProperty Name="DISCOUNT" ColumnName="DISCOUNT" />
+          <ScalarProperty Name="DEFAULTCURRENCY" ColumnName="DEFAULTCURRENCY" />
+          <ScalarProperty Name="TURNDOLLARSRATE" ColumnName="TURNDOLLARSRATE" />
+          <ScalarProperty Name="SHEET" ColumnName="SHEET" />
+          <ScalarProperty Name="NAMERANGE" ColumnName="NAMERANGE" />
+          <ScalarProperty Name="PRICERANGE" ColumnName="PRICERANGE" />
+          <ScalarProperty Name="FIRSTROW" ColumnName="FIRSTROW" />
+          <ScalarProperty Name="MAXPRICECHANGE" ColumnName="MAXPRICECHANGE" />
+          <ScalarProperty Name="STOPWORDS" ColumnName="STOPWORDS" />
+          <ScalarProperty Name="FILENAME" ColumnName="FILENAME" />
+          <ScalarProperty Name="FILEDATE" ColumnName="FILEDATE" />
+          <ScalarProperty Name="FILESHEETS" ColumnName="FILESHEETS" />
+          <ScalarProperty Name="COMMENT" ColumnName="COMMENT" />
+          <ScalarProperty Name="SKURANGE" ColumnName="SKURANGE" />
+          <ScalarProperty Name="STOCKRANGE" ColumnName="STOCKRANGE" />
+          <ScalarProperty Name="INSTOCKRANGE" ColumnName="INSTOCKRANGE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRICESRECORDS">
+      <EntityTypeMapping TypeName="testModel.PRICESRECORDS">
+        <MappingFragment StoreEntitySet="PRICESRECORDS">
+          <ScalarProperty Name="RECORDINDEX" ColumnName="RECORDINDEX" />
+          <ScalarProperty Name="PRICEID" ColumnName="PRICEID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="STATE" ColumnName="STATE" />
+          <ScalarProperty Name="USED" ColumnName="USED" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+          <ScalarProperty Name="DELETED" ColumnName="DELETED" />
+          <ScalarProperty Name="COMMENT" ColumnName="COMMENT" />
+          <ScalarProperty Name="SKU" ColumnName="SKU" />
+          <ScalarProperty Name="STOCK" ColumnName="STOCK" />
+          <ScalarProperty Name="INSTOCK" ColumnName="INSTOCK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRODUCTS">
+      <EntityTypeMapping TypeName="testModel.PRODUCTS">
+        <MappingFragment StoreEntitySet="PRODUCTS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="MANID" ColumnName="MANID" />
+          <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+          <ScalarProperty Name="BASEPRICE" ColumnName="BASEPRICE" />
+          <ScalarProperty Name="LABEL" ColumnName="LABEL" />
+          <ScalarProperty Name="PARENTLABEL" ColumnName="PARENTLABEL" />
+          <ScalarProperty Name="STATE" ColumnName="STATE" />
+          <ScalarProperty Name="USERCHANGED" ColumnName="USERCHANGED" />
+          <ScalarProperty Name="EXTRAUSED" ColumnName="EXTRAUSED" />
+          <ScalarProperty Name="EXTRA" ColumnName="EXTRA" />
+          <ScalarProperty Name="AUTOUPDATE" ColumnName="AUTOUPDATE" />
+          <ScalarProperty Name="AUTOUPDATETESTS" ColumnName="AUTOUPDATETESTS" />
+          <ScalarProperty Name="PRODUCTEXISTS" ColumnName="PRODUCTEXISTS" />
+          <ScalarProperty Name="PHOTOEXISTS" ColumnName="PHOTOEXISTS" />
+          <ScalarProperty Name="VIEWSTYLEID" ColumnName="VIEWSTYLEID" />
+          <ScalarProperty Name="CHILDNAME" ColumnName="CHILDNAME" />
+          <ScalarProperty Name="TESTER" ColumnName="TESTER" />
+          <ScalarProperty Name="PUBLISHED" ColumnName="PUBLISHED" />
+          <ScalarProperty Name="CREATEDATE" ColumnName="CREATEDATE" />
+          <ScalarProperty Name="CHANGEDATE" ColumnName="CHANGEDATE" />
+          <ScalarProperty Name="CORRECTEDSTATUS" ColumnName="CORRECTEDSTATUS" />
+          <ScalarProperty Name="INSTOCK" ColumnName="INSTOCK" />
+          <ScalarProperty Name="ISPROBIRKA" ColumnName="ISPROBIRKA" />
+          <ScalarProperty Name="COMMENT" ColumnName="COMMENT" />
+          <ScalarProperty Name="DELETED" ColumnName="DELETED" />
+          <ScalarProperty Name="IS_PROMO" ColumnName="IS_PROMO" />
+          <ScalarProperty Name="TEMPLATEID" ColumnName="TEMPLATEID" />
+          <ScalarProperty Name="SKU" ColumnName="SKU" />
+          <ScalarProperty Name="ISNEW" ColumnName="ISNEW" />
+          <ScalarProperty Name="ISNEWSTARTDATE" ColumnName="ISNEWSTARTDATE" />
+          <ScalarProperty Name="WEIGHT" ColumnName="WEIGHT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

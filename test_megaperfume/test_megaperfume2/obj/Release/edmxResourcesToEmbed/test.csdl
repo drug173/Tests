@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="testModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DISTRIBUTORS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Guid" Nullable="false" />
+    <Property Name="NAME" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ACTIVE" Type="Boolean" Nullable="false" />
+    <Property Name="GOINPURCHASELIST" Type="Boolean" />
+    <Property Name="FIRSTALWAYS" Type="Boolean" />
+    <Property Name="PHONE" Type="String" MaxLength="64" FixedLength="false" Unicode="true" />
+    <Property Name="EMAIL" Type="String" MaxLength="1024" FixedLength="false" Unicode="true" />
+    <Property Name="SENDMAIL" Type="Boolean" />
+    <Property Name="ADDRESS" Type="String" MaxLength="1024" FixedLength="false" Unicode="true" />
+    <Property Name="COMMENT" Type="String" MaxLength="4000" FixedLength="false" Unicode="true" />
+    <Property Name="PRIORITY" Type="Byte" />
+    <Property Name="DEALERORDER" Type="Int32" />
+    <NavigationProperty Name="PRICES" Relationship="Self.PRICESFOREIGNDISTRIBUTOR" FromRole="DISTRIBUTORS" ToRole="PRICES" />
+  </EntityType>
+  <EntityType Name="LINKS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Guid" Nullable="false" />
+    <Property Name="CATALOGPRODUCTID" Type="Guid" Nullable="false" />
+    <Property Name="PRICERECORDINDEX" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="PRODUCTS" Relationship="Self.LINKSFOREIGNCATALOGPRODUCT" FromRole="LINKS" ToRole="PRODUCTS" />
+    <NavigationProperty Name="PRICESRECORDS" Relationship="Self.LINKSFOREIGNPRICERECORD" FromRole="LINKS" ToRole="PRICESRECORDS" />
+  </EntityType>
+  <EntityType Name="MANUFACTURERS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Guid" Nullable="false" />
+    <Property Name="NAME" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EXTRAUSED" Type="Boolean" Nullable="false" />
+    <Property Name="EXTRA" Type="Int32" Nullable="false" />
+    <Property Name="DESCRIPTION" Type="String" MaxLength="1024" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PUBLISHED" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="PRODUCTS" Relationship="Self.PRODUCTSFOREIGNMANUFACTURER" FromRole="MANUFACTURERS" ToRole="PRODUCTS" />
+  </EntityType>
+  <EntityType Name="PRICES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Guid" Nullable="false" />
+    <Property Name="NAME" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DISID" Type="Guid" />
+    <Property Name="DISCOUNT" Type="Double" Nullable="false" />
+    <Property Name="DEFAULTCURRENCY" Type="Byte" Nullable="false" />
+    <Property Name="TURNDOLLARSRATE" Type="Double" Nullable="false" />
+    <Property Name="SHEET" Type="String" MaxLength="1024" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NAMERANGE" Type="String" MaxLength="16" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PRICERANGE" Type="String" MaxLength="16" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FIRSTROW" Type="Int32" Nullable="false" />
+    <Property Name="MAXPRICECHANGE" Type="Single" Nullable="false" />
+    <Property Name="STOPWORDS" Type="String" MaxLength="6000" FixedLength="false" Unicode="false" />
+    <Property Name="FILENAME" Type="String" MaxLength="1024" FixedLength="false" Unicode="false" />
+    <Property Name="FILEDATE" Type="DateTime" Precision="3" />
+    <Property Name="FILESHEETS" Type="String" MaxLength="1024" FixedLength="false" Unicode="false" />
+    <Property Name="COMMENT" Type="String" MaxLength="1024" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SKURANGE" Type="String" MaxLength="16" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="STOCKRANGE" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="INSTOCKRANGE" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="DISTRIBUTORS" Relationship="Self.PRICESFOREIGNDISTRIBUTOR" FromRole="PRICES" ToRole="DISTRIBUTORS" />
+    <NavigationProperty Name="PRICESRECORDS" Relationship="Self.PRICESRECORDSFOREIGNPRICE" FromRole="PRICES" ToRole="PRICESRECORDS" />
+  </EntityType>
+  <EntityType Name="PRICESRECORDS">
+    <Key>
+      <PropertyRef Name="RECORDINDEX" />
+    </Key>
+    <Property Name="RECORDINDEX" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PRICEID" Type="Guid" Nullable="false" />
+    <Property Name="NAME" Type="String" MaxLength="1024" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="STATE" Type="Byte" Nullable="false" />
+    <Property Name="USED" Type="Boolean" Nullable="false" />
+    <Property Name="PRICE" Type="Double" Nullable="false" />
+    <Property Name="DELETED" Type="Boolean" Nullable="false" />
+    <Property Name="COMMENT" Type="String" MaxLength="1024" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SKU" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="STOCK" Type="Int32" Nullable="false" />
+    <Property Name="INSTOCK" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="LINKS" Relationship="Self.LINKSFOREIGNPRICERECORD" FromRole="PRICESRECORDS" ToRole="LINKS" />
+    <NavigationProperty Name="PRICES" Relationship="Self.PRICESRECORDSFOREIGNPRICE" FromRole="PRICESRECORDS" ToRole="PRICES" />
+  </EntityType>
+  <EntityType Name="PRODUCTS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Guid" Nullable="false" />
+    <Property Name="NAME" Type="String" MaxLength="1024" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MANID" Type="Guid" Nullable="false" />
+    <Property Name="PRICE" Type="Double" Nullable="false" />
+    <Property Name="BASEPRICE" Type="Double" />
+    <Property Name="LABEL" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PARENTLABEL" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="STATE" Type="Byte" Nullable="false" />
+    <Property Name="USERCHANGED" Type="Boolean" Nullable="false" />
+    <Property Name="EXTRAUSED" Type="Boolean" Nullable="false" />
+    <Property Name="EXTRA" Type="Int32" Nullable="false" />
+    <Property Name="AUTOUPDATE" Type="Boolean" Nullable="false" />
+    <Property Name="AUTOUPDATETESTS" Type="Boolean" />
+    <Property Name="PRODUCTEXISTS" Type="Boolean" />
+    <Property Name="PHOTOEXISTS" Type="Boolean" Nullable="false" />
+    <Property Name="VIEWSTYLEID" Type="Int32" Nullable="false" />
+    <Property Name="CHILDNAME" Type="String" MaxLength="1024" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TESTER" Type="Boolean" Nullable="false" />
+    <Property Name="PUBLISHED" Type="Boolean" Nullable="false" />
+    <Property Name="CREATEDATE" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CHANGEDATE" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CORRECTEDSTATUS" Type="Byte" Nullable="false" />
+    <Property Name="INSTOCK" Type="Int32" Nullable="false" />
+    <Property Name="ISPROBIRKA" Type="Boolean" Nullable="false" />
+    <Property Name="COMMENT" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DELETED" Type="Boolean" Nullable="false" />
+    <Property Name="IS_PROMO" Type="Boolean" Nullable="false" />
+    <Property Name="TEMPLATEID" Type="Int32" Nullable="false" />
+    <Property Name="SKU" Type="Int32" Nullable="false" />
+    <Property Name="ISNEW" Type="Boolean" Nullable="false" />
+    <Property Name="ISNEWSTARTDATE" Type="DateTime" Precision="3" />
+    <Property Name="WEIGHT" Type="Double" Nullable="false" />
+    <NavigationProperty Name="LINKS" Relationship="Self.LINKSFOREIGNCATALOGPRODUCT" FromRole="PRODUCTS" ToRole="LINKS" />
+    <NavigationProperty Name="MANUFACTURERS" Relationship="Self.PRODUCTSFOREIGNMANUFACTURER" FromRole="PRODUCTS" ToRole="MANUFACTURERS" />
+  </EntityType>
+  <Association Name="PRICESFOREIGNDISTRIBUTOR">
+    <End Role="DISTRIBUTORS" Type="Self.DISTRIBUTORS" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="PRICES" Type="Self.PRICES" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DISTRIBUTORS">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="PRICES">
+        <PropertyRef Name="DISID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="LINKSFOREIGNCATALOGPRODUCT">
+    <End Role="PRODUCTS" Type="Self.PRODUCTS" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="LINKS" Type="Self.LINKS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PRODUCTS">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="LINKS">
+        <PropertyRef Name="CATALOGPRODUCTID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="LINKSFOREIGNPRICERECORD">
+    <End Role="PRICESRECORDS" Type="Self.PRICESRECORDS" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="LINKS" Type="Self.LINKS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PRICESRECORDS">
+        <PropertyRef Name="RECORDINDEX" />
+      </Principal>
+      <Dependent Role="LINKS">
+        <PropertyRef Name="PRICERECORDINDEX" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PRODUCTSFOREIGNMANUFACTURER">
+    <End Role="MANUFACTURERS" Type="Self.MANUFACTURERS" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="PRODUCTS" Type="Self.PRODUCTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MANUFACTURERS">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="PRODUCTS">
+        <PropertyRef Name="MANID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PRICESRECORDSFOREIGNPRICE">
+    <End Role="PRICES" Type="Self.PRICES" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="PRICESRECORDS" Type="Self.PRICESRECORDS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PRICES">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="PRICESRECORDS">
+        <PropertyRef Name="PRICEID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="testEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DISTRIBUTORS" EntityType="Self.DISTRIBUTORS" />
+    <EntitySet Name="LINKS" EntityType="Self.LINKS" />
+    <EntitySet Name="MANUFACTURERS" EntityType="Self.MANUFACTURERS" />
+    <EntitySet Name="PRICES" EntityType="Self.PRICES" />
+    <EntitySet Name="PRICESRECORDS" EntityType="Self.PRICESRECORDS" />
+    <EntitySet Name="PRODUCTS" EntityType="Self.PRODUCTS" />
+    <AssociationSet Name="PRICESFOREIGNDISTRIBUTOR" Association="Self.PRICESFOREIGNDISTRIBUTOR">
+      <End Role="DISTRIBUTORS" EntitySet="DISTRIBUTORS" />
+      <End Role="PRICES" EntitySet="PRICES" />
+    </AssociationSet>
+    <AssociationSet Name="LINKSFOREIGNCATALOGPRODUCT" Association="Self.LINKSFOREIGNCATALOGPRODUCT">
+      <End Role="PRODUCTS" EntitySet="PRODUCTS" />
+      <End Role="LINKS" EntitySet="LINKS" />
+    </AssociationSet>
+    <AssociationSet Name="LINKSFOREIGNPRICERECORD" Association="Self.LINKSFOREIGNPRICERECORD">
+      <End Role="PRICESRECORDS" EntitySet="PRICESRECORDS" />
+      <End Role="LINKS" EntitySet="LINKS" />
+    </AssociationSet>
+    <AssociationSet Name="PRODUCTSFOREIGNMANUFACTURER" Association="Self.PRODUCTSFOREIGNMANUFACTURER">
+      <End Role="MANUFACTURERS" EntitySet="MANUFACTURERS" />
+      <End Role="PRODUCTS" EntitySet="PRODUCTS" />
+    </AssociationSet>
+    <AssociationSet Name="PRICESRECORDSFOREIGNPRICE" Association="Self.PRICESRECORDSFOREIGNPRICE">
+      <End Role="PRICES" EntitySet="PRICES" />
+      <End Role="PRICESRECORDS" EntitySet="PRICESRECORDS" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
