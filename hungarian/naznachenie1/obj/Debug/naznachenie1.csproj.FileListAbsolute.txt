@@ -1,0 +1,93 @@
+C:\Users\Максим\Desktop\ДИПЛОМ\назначение\naznachenie1\naznachenie1\bin\Debug\naznachenie1.exe.config
+C:\Users\Максим\Desktop\ДИПЛОМ\назначение\naznachenie1\naznachenie1\bin\Debug\naznachenie1.exe
+C:\Users\Максим\Desktop\ДИПЛОМ\назначение\naznachenie1\naznachenie1\bin\Debug\naznachenie1.pdb
+C:\Users\Максим\Desktop\ДИПЛОМ\назначение\naznachenie1\naznachenie1\obj\Debug\naznachenie1.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\ДИПЛОМ\назначение\naznachenie1\naznachenie1\obj\Debug\naznachenie1.Form1.resources
+C:\Users\Максим\Desktop\ДИПЛОМ\назначение\naznachenie1\naznachenie1\obj\Debug\naznachenie1.Properties.Resources.resources
+C:\Users\Максим\Desktop\ДИПЛОМ\назначение\naznachenie1\naznachenie1\obj\Debug\naznachenie1.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\ДИПЛОМ\назначение\naznachenie1\naznachenie1\obj\Debug\naznachenie1.exe
+C:\Users\Максим\Desktop\ДИПЛОМ\назначение\naznachenie1\naznachenie1\obj\Debug\naznachenie1.pdb
+C:\Users\Максим\Desktop\проги к диплому\назначение\naznachenie1\naznachenie1\bin\Debug\naznachenie1.exe.config
+C:\Users\Максим\Desktop\проги к диплому\назначение\naznachenie1\naznachenie1\obj\Debug\naznachenie1.exe
+C:\Users\Максим\Desktop\проги к диплому\назначение\naznachenie1\naznachenie1\obj\Debug\naznachenie1.pdb
+C:\Users\Максим\Desktop\проги к диплому\назначение\naznachenie1\naznachenie1\bin\Debug\naznachenie1.exe
+C:\Users\Максим\Desktop\проги к диплому\назначение\naznachenie1\naznachenie1\bin\Debug\naznachenie1.pdb
+C:\Users\Максим\Desktop\проги к диплому\назначение\naznachenie1\naznachenie1\obj\Debug\naznachenie1.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\проги к диплому\назначение\naznachenie1\naznachenie1\obj\Debug\naznachenie1.Form1.resources
+C:\Users\Максим\Desktop\проги к диплому\назначение\naznachenie1\naznachenie1\obj\Debug\naznachenie1.Properties.Resources.resources
+C:\Users\Максим\Desktop\проги к диплому\назначение\naznachenie1\naznachenie1\obj\Debug\naznachenie1.csproj.GenerateResource.Cache
+C:\Users\drug\Desktop\проги к диплому\naznachenie1\naznachenie1\bin\Debug\naznachenie1.exe.config
+C:\Users\drug\Desktop\проги к диплому\naznachenie1\naznachenie1\obj\Debug\naznachenie1.exe
+C:\Users\drug\Desktop\проги к диплому\naznachenie1\naznachenie1\obj\Debug\naznachenie1.pdb
+C:\Users\drug\Desktop\проги к диплому\naznachenie1\naznachenie1\bin\Debug\naznachenie1.exe
+C:\Users\drug\Desktop\проги к диплому\naznachenie1\naznachenie1\bin\Debug\naznachenie1.pdb
+C:\Users\drug\Desktop\проги к диплому\naznachenie1\naznachenie1\obj\Debug\naznachenie1.csprojResolveAssemblyReference.cache
+C:\Users\drug\Desktop\проги к диплому\naznachenie1\naznachenie1\obj\Debug\naznachenie1.Form1.resources
+C:\Users\drug\Desktop\проги к диплому\naznachenie1\naznachenie1\obj\Debug\naznachenie1.Properties.Resources.resources
+C:\Users\drug\Desktop\проги к диплому\naznachenie1\naznachenie1\obj\Debug\naznachenie1.csproj.GenerateResource.Cache
+C:\Users\drug\Desktop\проги к диплому\naznachenie1\naznachenie1\obj\Debug\naznachenie1.FormProg.resources
+C:\Users\Максим\Desktop\naznachenieновая\naznachenie1\bin\Debug\naznachenie1.exe.config
+C:\Users\Максим\Desktop\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.exe
+C:\Users\Максим\Desktop\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.pdb
+C:\Users\Максим\Desktop\naznachenieновая\naznachenie1\bin\Debug\naznachenie1.exe
+C:\Users\Максим\Desktop\naznachenieновая\naznachenie1\bin\Debug\naznachenie1.pdb
+C:\Users\Максим\Desktop\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.Form1.resources
+C:\Users\Максим\Desktop\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.FormProg.resources
+C:\Users\Максим\Desktop\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.Properties.Resources.resources
+C:\Users\Максим\Desktop\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.csproj.GenerateResource.Cache
+C:\Users\drug173\Desktop\проги к диплому\naznachenieновая\naznachenie1\bin\Debug\naznachenie1.exe.config
+C:\Users\drug173\Desktop\проги к диплому\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.exe
+C:\Users\drug173\Desktop\проги к диплому\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.pdb
+C:\Users\drug173\Desktop\проги к диплому\naznachenieновая\naznachenie1\bin\Debug\naznachenie1.exe
+C:\Users\drug173\Desktop\проги к диплому\naznachenieновая\naznachenie1\bin\Debug\naznachenie1.pdb
+C:\Users\drug173\Desktop\проги к диплому\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.csprojResolveAssemblyReference.cache
+C:\Users\drug173\Desktop\проги к диплому\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.Form1.resources
+C:\Users\drug173\Desktop\проги к диплому\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.FormProg.resources
+C:\Users\drug173\Desktop\проги к диплому\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.Properties.Resources.resources
+C:\Users\drug173\Desktop\проги к диплому\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\Диплом проги\naznachenieновая\naznachenie1\bin\Debug\naznachenie1.exe.config
+C:\Users\Максим\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.exe
+C:\Users\Максим\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.pdb
+C:\Users\Максим\Desktop\Диплом проги\naznachenieновая\naznachenie1\bin\Debug\naznachenie1.exe
+C:\Users\Максим\Desktop\Диплом проги\naznachenieновая\naznachenie1\bin\Debug\naznachenie1.pdb
+C:\Users\Максим\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.Form1.resources
+C:\Users\Максим\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.FormEnd.resources
+C:\Users\Максим\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.FormProg.resources
+C:\Users\Максим\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.Properties.Resources.resources
+C:\Users\Максим\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.csproj.GenerateResource.Cache
+C:\Users\drug173\Desktop\Диплом проги\naznachenieновая\naznachenie1\bin\Debug\naznachenie1.exe.config
+C:\Users\drug173\Desktop\Диплом проги\naznachenieновая\naznachenie1\bin\Debug\naznachenie1.exe
+C:\Users\drug173\Desktop\Диплом проги\naznachenieновая\naznachenie1\bin\Debug\naznachenie1.pdb
+C:\Users\drug173\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.csprojResolveAssemblyReference.cache
+C:\Users\drug173\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.Form1.resources
+C:\Users\drug173\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.FormEnd.resources
+C:\Users\drug173\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.FormProg.resources
+C:\Users\drug173\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.Properties.Resources.resources
+C:\Users\drug173\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.csproj.GenerateResource.Cache
+C:\Users\drug173\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.exe
+C:\Users\drug173\Desktop\Диплом проги\naznachenieновая\naznachenie1\obj\Debug\naznachenie1.pdb
+D:\GIT\naznachenie\naznachenie1\bin\Debug\naznachenie1.exe.config
+D:\GIT\naznachenie\naznachenie1\obj\Debug\naznachenie1.exe
+D:\GIT\naznachenie\naznachenie1\obj\Debug\naznachenie1.pdb
+D:\GIT\naznachenie\naznachenie1\bin\Debug\naznachenie1.exe
+D:\GIT\naznachenie\naznachenie1\bin\Debug\naznachenie1.pdb
+D:\GIT\naznachenie\naznachenie1\obj\Debug\naznachenie1.csprojResolveAssemblyReference.cache
+D:\GIT\naznachenie\naznachenie1\obj\Debug\naznachenie1.Form1.resources
+D:\GIT\naznachenie\naznachenie1\obj\Debug\naznachenie1.FormEnd.resources
+D:\GIT\naznachenie\naznachenie1\obj\Debug\naznachenie1.FormProg.resources
+D:\GIT\naznachenie\naznachenie1\obj\Debug\naznachenie1.Properties.Resources.resources
+D:\GIT\naznachenie\naznachenie1\obj\Debug\naznachenie1.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\Новая папка (2)\naznachenie1\bin\Debug\naznachenie1.exe.config
+C:\Users\Максим\Desktop\Новая папка (2)\naznachenie1\bin\Debug\naznachenie1.exe
+C:\Users\Максим\Desktop\Новая папка (2)\naznachenie1\bin\Debug\naznachenie1.pdb
+C:\Users\Максим\Desktop\Новая папка (2)\naznachenie1\obj\Debug\naznachenie1.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Новая папка (2)\naznachenie1\obj\Debug\naznachenie1.Form1.resources
+C:\Users\Максим\Desktop\Новая папка (2)\naznachenie1\obj\Debug\naznachenie1.FormEnd.resources
+C:\Users\Максим\Desktop\Новая папка (2)\naznachenie1\obj\Debug\naznachenie1.FormProg.resources
+C:\Users\Максим\Desktop\Новая папка (2)\naznachenie1\obj\Debug\naznachenie1.Properties.Resources.resources
+C:\Users\Максим\Desktop\Новая папка (2)\naznachenie1\obj\Debug\naznachenie1.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Новая папка (2)\naznachenie1\obj\Debug\naznachenie1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Новая папка (2)\naznachenie1\obj\Debug\naznachenie1.exe
+C:\Users\Максим\Desktop\Новая папка (2)\naznachenie1\obj\Debug\naznachenie1.pdb
